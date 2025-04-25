@@ -3,7 +3,7 @@ import os
 #-------------------------------------------------------#
 #   datasets_path   指向数据集所在的路径
 #-------------------------------------------------------#
-datasets_path   = 'datasets'
+datasets_path   = 'dataset'
 
 if __name__ == "__main__":
     classes     = ['trainA', 'trainB']
